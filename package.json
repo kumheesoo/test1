@@ -1,0 +1,15 @@
+{
+  "name": "warning-sign-project",
+  "version": "1.0.0",
+  "description": "경고문 제보 시스템",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd warning-sign-app && npm run build",
+    "start": "cd warning-sign-app && npm start",
+    "install": "cd warning-sign-app && npm install",
+    "vercel-build": "cd warning-sign-app && npm run build"
+  },
+  "keywords": ["react", "warning-sign", "reporting"],
+  "author": "Your Name",
+  "license": "MIT"
+}
